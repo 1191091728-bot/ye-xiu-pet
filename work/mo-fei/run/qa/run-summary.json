@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "petId": "ye-xiu",
+  "displayName": "叶修",
+  "sourceMode": "direct extraction from user-approved reference contact sheet",
+  "spritesheet": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/outputs/ye-xiu-pet/spritesheet.webp",
+  "package": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/outputs/ye-xiu-pet",
+  "validation": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/work/mo-fei/run/final/validation-extended.json",
+  "chromaDespill": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/work/mo-fei/run/qa/chroma-despill-extended.json",
+  "contactSheet": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/outputs/ye-xiu-contact-sheet.png",
+  "directionSheet": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/outputs/ye-xiu-directions.png",
+  "directionSemantics": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/work/mo-fei/run/qa/direction-semantics.json",
+  "blindDirectionValidation": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/work/mo-fei/run/qa/direction-blind-validation.json",
+  "continuity": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/work/mo-fei/run/qa/look-continuity.json",
+  "review": "/Users/edann/Documents/Codex/2026-07-22/hatch-pet-users-edann-codex-skills-8/work/mo-fei/run/qa/review.json",
+  "finalVisualQa": "pass"
+}
